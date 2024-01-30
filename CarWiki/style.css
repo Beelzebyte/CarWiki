@@ -45,4 +45,14 @@ button {
 button:hover {
     background-color: #ECD5BB;
 }
+.Title{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    position: relative;
+    top: 25px;
+    font-size: 30px;
+    font-weight: 400px;
+    font-style: italic;
+    color: black;
+}
 
